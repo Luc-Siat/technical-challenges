@@ -4,7 +4,6 @@ require 'open-uri'
 
 # mapbox_key = ENV['MAPBOX_API_KEY']
 
-
 # create the data and url
 test_location = {
   longitude: "13.437641",
